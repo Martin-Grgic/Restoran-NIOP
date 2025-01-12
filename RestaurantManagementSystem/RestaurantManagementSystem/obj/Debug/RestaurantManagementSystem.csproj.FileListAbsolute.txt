@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe.config
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.exe
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\RestaurantManagementSystem.pdb
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.exe
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\obj\Debug\RestaurantManagementSystem.pdb
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\pocetni.jpeg
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\salmon.jpeg
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\cake.jpg
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\trufflePasta.jpg
+C:\Users\Martin\source\repos\RestaurantManagementSystem\RestaurantManagementSystem\bin\Debug\restoran.jpg
